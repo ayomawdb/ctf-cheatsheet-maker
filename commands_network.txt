@@ -1,0 +1,1 @@
+nmap -sV -sC -oA nmap -T4 @TI
